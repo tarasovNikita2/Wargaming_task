@@ -4,7 +4,7 @@ bool isEven(int x)
     return (x&1) == 0;
 }
 
-(Пример на Puthon)
+/*(Пример на Puthon)*/
 def isEven(x):
     return x & 1 == 0
 
