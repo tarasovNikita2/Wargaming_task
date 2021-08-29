@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/wargamingIsEven.dir/main.cpp.o -o wargamingIsEven 

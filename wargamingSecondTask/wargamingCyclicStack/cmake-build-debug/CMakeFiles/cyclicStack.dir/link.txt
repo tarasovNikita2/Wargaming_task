@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cyclicStack.dir/main.cpp.o -o cyclicStack 

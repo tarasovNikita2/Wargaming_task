@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/wargamingLimitedQueue.dir/main.cpp.o -o wargamingLimitedQueue 

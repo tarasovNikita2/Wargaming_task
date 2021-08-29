@@ -1,0 +1,3 @@
+/home/tarasov2/CLionProjects/wargamingIsEven/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tarasov2/CLionProjects/wargamingIsEven/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tarasov2/CLionProjects/wargamingIsEven/cmake-build-debug/CMakeFiles/wargamingIsEven.dir
